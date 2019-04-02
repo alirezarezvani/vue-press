@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to VuePress
 
 Welcome to the VuePress starter template for [CodeSandbox](https://codesandbox.io). To learn more about VuePress in general and how to customise this project, please see the [VuePress documentation](https://v1.vuepress.vuejs.org).
 
@@ -8,7 +8,7 @@ This template uses the default VuePress theme. To learn more about what you can 
 
 When you want to create a custom VuePress theme, you add a `theme` directory under `.vuepress` (`.vuepress/theme`) and start by adding a `Layout.vue` file. From there it's the same as developing a normal Vue application. It is entirely up to you how to organize your theme.
 
-The content of your `markdown` files to be rendered will be available as a special global component called `<Content/>`. You will need to add this somewhere in your layout in order to render and display the content of the page/markdown file. 
+The content of your `markdown` files to be rendered will be available as a special global component called `<Content/>`. You will need to add this somewhere in your layout in order to render and display the content of the page/markdown file.
 
 The simplest theme can be a single `Layout.vue` component with the following content:
 
